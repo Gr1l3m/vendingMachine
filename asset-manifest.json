@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gr1l3m.github.io/vendingMachine/static/css/main.22070b4d.chunk.css",
+    "main.js": "/gr1l3m.github.io/vendingMachine/static/js/main.553cd8b1.chunk.js",
+    "main.js.map": "/gr1l3m.github.io/vendingMachine/static/js/main.553cd8b1.chunk.js.map",
+    "runtime-main.js": "/gr1l3m.github.io/vendingMachine/static/js/runtime-main.122cd401.js",
+    "runtime-main.js.map": "/gr1l3m.github.io/vendingMachine/static/js/runtime-main.122cd401.js.map",
+    "static/js/2.dbefbd63.chunk.js": "/gr1l3m.github.io/vendingMachine/static/js/2.dbefbd63.chunk.js",
+    "static/js/2.dbefbd63.chunk.js.map": "/gr1l3m.github.io/vendingMachine/static/js/2.dbefbd63.chunk.js.map",
+    "index.html": "/gr1l3m.github.io/vendingMachine/index.html",
+    "precache-manifest.52562d8f450290058236191f785413ce.js": "/gr1l3m.github.io/vendingMachine/precache-manifest.52562d8f450290058236191f785413ce.js",
+    "service-worker.js": "/gr1l3m.github.io/vendingMachine/service-worker.js",
+    "static/css/main.22070b4d.chunk.css.map": "/gr1l3m.github.io/vendingMachine/static/css/main.22070b4d.chunk.css.map",
+    "static/js/2.dbefbd63.chunk.js.LICENSE.txt": "/gr1l3m.github.io/vendingMachine/static/js/2.dbefbd63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.122cd401.js",
+    "static/js/2.dbefbd63.chunk.js",
+    "static/css/main.22070b4d.chunk.css",
+    "static/js/main.553cd8b1.chunk.js"
+  ]
+}
